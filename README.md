@@ -1,7 +1,7 @@
 # 📱 Strent Frontend
 
 ## 🧾 Project Description
-Strent is a secure real estate mobile web application that connects homeowners, tenants, and roommates directly — eliminating exploitative middlemen. This repository contains the frontend codebase for the Strent platform built using **React**, **Tailwind CSS**, **Vite**, and other modern web technologies. It also integrates geolocation, real-time messaging, responsive UI components, and payment systems.
+Strent is a secure real estate mobile web application that connects homeowners, tenants, and roommates directly. This repository contains the frontend codebase for the Strent platform built using **React**, **Tailwind CSS**, **Vite**, and other modern web technologies. It also integrates geolocation, real-time messaging, responsive UI components, and payment systems.
 
 ---
 
