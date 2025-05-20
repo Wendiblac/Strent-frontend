@@ -103,14 +103,14 @@ All team members from Frontend Development track and Cloud Engineering Track.
 
 ## 🏗 System Architecture
 graph TD
-    A[User Interface - React Components] --> B[Routing - React Router]
-    B --> C[State Management - Recoil/Context API]
-    C --> D[API Services - Axios/Fetch]
-    D --> E[Backend REST API (FastAPI)]
-    E --> F[Database]
-    B --> G[Real-time Updates - Socket.io]
-    A --> H[Authentication - JWT/Firebase/Auth0]
-    A --> I[Payments - Stripe/Paystack]
+- A[User Interface - React Components] --> B[Routing - React Router]
+- B --> C[State Management - Recoil/Context API]
+- C --> D[API Services - Axios/Fetch]
+- D --> E[Backend REST API (FastAPI)]
+- E --> F[Database]
+- B --> G[Real-time Updates - Socket.io]
+- A --> H[Authentication - JWT/Firebase/Auth0]
+- A --> I[Payments - Stripe/Paystack]
 
 
 ## 🧩 Future Features
