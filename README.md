@@ -7,26 +7,26 @@ Strent is a secure real estate mobile web application that connects homeowners, 
 
 ## 📁 Project Structure
 strent-frontend/
-│
-├── public/ # Static assets
-│
-├── src/
-│ ├── assets/ # Images and logos
-│ ├── components/ # Reusable components (Navbar, Footer, Cards, etc.)
-│ ├── pages/ # Page components (Home, Profile, Listings, etc.)
-│ ├── services/ # API calls using Axios or Fetch
-│ ├── context/ # Global state using Recoil/Context API
-│ ├── routes/ # Route management with React Router
-│ ├── utils/ # Helper functions
-│ ├── styles/ # Tailwind/CSS styles
-│ ├── App.jsx # Main App wrapper
-│ └── main.jsx # Entry point
-│
-├── .env # Environment variables
-├── .gitignore # Files ignored by Git
-├── index.html # Root HTML file
-├── package.json # Project dependencies
-└── README.md # Project info and instructions
+- │
+- ├── public/ # Static assets
+- │
+- ├── src/
+- │ ├── assets/ # Images and logos
+- │ ├── components/ # Reusable components (Navbar, Footer, Cards, etc.)
+- │ ├── pages/ # Page components (Home, Profile, Listings, etc.)
+- │ ├── services/ # API calls using Axios or Fetch
+- │ ├── context/ # Global state using Recoil/Context API
+- │ ├── routes/ # Route management with React Router
+- │ ├── utils/ # Helper functions
+- │ ├── styles/ # Tailwind/CSS styles
+- │ ├── App.jsx # Main App wrapper
+- │ └── main.jsx # Entry point
+- │
+- ├── .env # Environment variables
+- ├── .gitignore # Files ignored by Git
+- ├── index.html # Root HTML file
+- ├── package.json # Project dependencies
+- └── README.md # Project info and instructions
 
 ---
 
