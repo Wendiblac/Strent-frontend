@@ -68,7 +68,7 @@ To deploy:
 - Configure build settings via amplify.yml.
 
 ## 🧭 Contribution Guidelines
-🧑‍🤝‍🧑 Who Can Contribute
+### 🧑‍🤝‍🧑 Who Can Contribute
 All team members from Frontend Development track and Cloud Engineering Track.
 
 ## 📌 Branch Naming Convention
